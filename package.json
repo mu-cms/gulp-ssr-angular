@@ -1,0 +1,28 @@
+{
+  "name": "@mu-cms/gulp-ssr-angular",
+  "version": "0.0.0",
+  "description": "GulpJS Angular SSR Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu-cms/gulp-ssr-angular.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mu-cms/gulp-ssr-angular/issues"
+  },
+  "homepage": "https://github.com/mu-cms/gulp-ssr-angular#readme",
+  "dependencies": {
+    "through2": "^2.0.3"
+  },
+  "peerDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
